@@ -30,4 +30,4 @@ Please ⭐️ this repository if this project helped you!
 Copyright © 2022 [Aman Kumar Jha](https://github.com/AmanJha2709).<br />
 
 ## Project Live demo
-[Deployment Link](https://captivatorsclub.vercel.app).<br />
+[Deployment Link](https://inteloneapi-bvp.netlify.app).<br />
